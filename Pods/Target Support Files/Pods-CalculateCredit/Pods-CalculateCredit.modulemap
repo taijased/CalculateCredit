@@ -1,0 +1,6 @@
+framework module Pods_CalculateCredit {
+  umbrella header "Pods-CalculateCredit-umbrella.h"
+
+  export *
+  module * { export * }
+}
